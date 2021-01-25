@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Personal Blog
 - 🌱 I’m currently learning Python  
-- 👯 I’m looking to collaborate on Python
+- 👯 I’m looking to collaborate on Python Projects
 - 📫 How to reach me: Insta : @kathpalia.ayush
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I try to keep my Workdesk clean . :p
